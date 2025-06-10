@@ -1,3 +1,64 @@
 site_name: LearnIT
 theme:
-  name: material
+  name: material 
+  extra_javascript:
+    - assets/cookie.js
+
+
+nav:
+  - Home: index.md
+  - Datenschutz: datenschutz.md
+  - 1. Lehrjahr:
+      - Modul:
+          - Modul 117: 1.Lehrjahr/Modul 117/index.md
+          - Modul 122: 1.Lehrjahr/Modul 122/index.md
+          - Modul 123: 1.Lehrjahr/Modul 123/index.md
+          - Modul 162: 1.Lehrjahr/Modul 162/index.md
+          - Modul 164: 1.Lehrjahr/Modul 164/index.md
+          - Modul 231: 1.Lehrjahr/Modul 231/index.md
+          - Modul 319: 1.Lehrjahr/Modul 319/index.md
+          - Modul 431: 1.Lehrjahr/Modul 431/index.md
+
+  - 2. Lehrjahr:
+      - Modul:
+          - Modul 114: 2.Lehrjahr/Modul 114/index.md
+          - Modul 129: 2.Lehrjahr/Modul 129/index.md
+          - Modul 141: 2.Lehrjahr/Modul 141/index.md
+          - Modul 143: 2.Lehrjahr/Modul 143/index.md
+          - Modul 158: 2.Lehrjahr/Modul 158/index.md
+          - Modul 254: 2.Lehrjahr/Modul 254/index.md
+          - Modul 346: 2.Lehrjahr/Modul 346/index.md
+  - 3. Lehrjahr:
+      - Modul:
+          - Modul 145: 3.Lehrjahr/Modul 145/index.md
+          - Modul 159: 3.Lehrjahr/Modul 159/index.md
+          - Modul 300: 3.Lehrjahr/Modul 300/index.md
+          - Modul 306: 3.Lehrjahr/Modul 306/index.md
+
+  - 4. Lehrjahr:
+      - Modul:
+          - Modul 157: 4.Lehrjahr/Modul 157/index.md
+          - Modul 182: 4.Lehrjahr/Modul 182/index.md
+          - Modul 241: 4.Lehrjahr/Modul 241/index.md
+          - Modul 245: 4.Lehrjahr/Modul 245/index.md
+  - ÜK:
+      - 1. Lehrjahr:
+          - ÜK 106: Uek/1.Lehrjahr/Modul 106/index.md
+          - ÜK 187: Uek/1.Lehrjahr/Modul 187/index.md
+          - ÜK 216: Uek/1.Lehrjahr/Modul 216/index.md
+      - 2. Lehrjahr:
+          - ÜK 107: Uek/2.Lehrjahr/Modul 107/index.md
+          - ÜK 109: Uek/2.Lehrjahr/Modul 109/index.md
+          - ÜK 184: Uek/2.Lehrjahr/Modul 184/index.md
+          - ÜK 188: Uek/2.Lehrjahr/Modul 188/index.md
+          - ÜK 190: Uek/2.Lehrjahr/Modul 190/index.md
+          - ÜK 210: Uek/2.Lehrjahr/Modul 210/index.md
+          - ÜK 248: Uek/2.Lehrjahr/Modul 248/index.md
+          - ÜK 259: Uek/2.Lehrjahr/Modul 259/index.md
+      - 3. Lehrjahr:
+          - ÜK 110: Uek/3.Lehrjahr/Modul 110/index.md
+          - ÜK 185: Uek/3.Lehrjahr/Modul 185/index.md
+          - ÜK 217: Uek/3.Lehrjahr/Modul 217/index.md
+          - ÜK 223: Uek/3.Lehrjahr/Modul 223/index.md
+          - ÜK 335: Uek/3.Lehrjahr/Modul 335/index.md
+          
