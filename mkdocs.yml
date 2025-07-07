@@ -1,6 +1,16 @@
-site_name: LearnIT
 theme:
-  name: material 
+  name: material
+  language: de
+  palette:
+    scheme: slate
+    primary: indigo
+    accent: indigo
+  features:
+    - navigation.tabs
+    - navigation.top
+    - content.code.copy
+    - content.tabs.link
+    
   extra_javascript:
     - assets/cookie.js
 
