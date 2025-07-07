@@ -2,22 +2,19 @@ site_name: LearnIT
 
 theme:
   name: material
-  language: de
   palette:
-    scheme: slate
-    primary: indigo
-    accent: indigo
+    - scheme: slate
+      primary: indigo
+      accent: blue
   features:
     - navigation.tabs
     - navigation.top
-    - content.code.copy
-    - content.tabs.link
     
-  extra_javascript:
-    - assets/cookie.js
-
-  extra_css:
+extra_css:
   - assets/styles/custom.css
+  
+extra_javascript:
+  - assets/cookie.js
 
 
 nav:
